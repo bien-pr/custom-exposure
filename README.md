@@ -1,6 +1,6 @@
 # Custom Exposure
 
-Custom Exposure is plugin for mobile camera exposure.
+Custom Exposure is Unity3D plugin for mobile camera exposure.
 
 ISO 60
 
